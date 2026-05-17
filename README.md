@@ -8,6 +8,7 @@ Este repositório contém exemplos e exercícios da aula de HTML.
 - `index.html` → Página principal
 - `css/` → Estilos
 - `img/` → Imagens
+- `cor/` → cor
 
 ## 🚀 Como usar
 1. Clone este repositório:
